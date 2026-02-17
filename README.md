@@ -57,16 +57,6 @@ I'm a **Software Developer** from Nagpur, India — MCA 2025 graduate with **6 m
 
 <br/>
 
-## 🚀 Projects
-
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| **📝 Notes App** | Full-stack notes app with JWT auth, Redux, search & pin features | React, Node.js, Express, MongoDB | [GitHub](https://github.com/Ayushburde06/Notes-App-main) · [Live](https://notes-app-main-aqv5.onrender.com/) |
-| **📄 CV Generator** | Resume builder with 7 templates and PDF export | Python, Django, SQLite | [GitHub](https://github.com/Ayushburde06/CV__Generator) |
-| **✍️ Blog Platform** | Medium-style blogging app with auth and user profiles | React, TypeScript, Hono.js, Prisma | [GitHub](https://github.com/Ayushburde06/Blog-App) |
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
