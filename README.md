@@ -55,17 +55,7 @@ I'm a **Software Developer** from Nagpur, India — MCA 2025 graduate with **6 m
 
 </div>
 
-<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ayushburde06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20B2A6&icon_color=20B2A6&text_color=c9d1d9&hide=contribs&hide_rank=true" alt="Stats"/>
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushburde06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20B2A6&text_color=c9d1d9&langs_count=6" alt="Languages"/>
-</div>
-
-<br/>
 
 ## 📫 Get in Touch
 
