@@ -92,7 +92,15 @@ I'm a **Software Developer** from Nagpur, India — MCA 2025 graduate with **6 m
 <br/>
 
 <div align="center">
-  <i>I'm a fresher who ships code, not just writes it. Let's build something together.</i>
+
+⚡ **Fun fact...** I started my journey with a BCA degree 💁‍♂️ where I fell in love with coding — then went all-in with an MCA! I figured, why stop at writing programs in college labs when I could build full-stack apps that actually *ship*? 🚀 Now I spend my time turning coffee into APIs ☕→🔗, breaking things in production (and fixing them before anyone notices 🤫), and wondering why my code works on the first try — because it never does. When I'm not debugging, you'll find me gaming 🎮 or nerding out over tech & science. Still a fresher, but already addicted to the `git push` dopamine hit! 😄
+
+</div>
+
+<br/>
+
+<div align="center">
+  <i>I ship code, not just write it. Let's build something together.</i>
 </div>
 
 <!-- Footer -->
