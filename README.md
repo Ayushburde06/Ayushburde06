@@ -75,7 +75,8 @@ I'm a **Software Developer**  **6 months of industry experience** as an SDE Inte
 
 ⚡ **Fun fact...** I started my journey with a BCA degree 💁‍♂️ where I fell in love with coding — then went all-in with an MCA! I figured, why stop at writing programs in college labs when I could build full-stack apps that actually *ship*? 🚀 Now I spend my time turning coffee into APIs ☕→🔗, breaking things in production (and fixing them before anyone notices 🤫), and wondering why my code works on the first try — because it never does. When I'm not debugging, you'll find me gaming 🎮 or nerding out over tech & science. Still a fresher, but already addicted to the `git push` dopamine hit! 😄
 
-https://raw.githubusercontent.com/saturn-abhishek/abhisheknaiidu/refs/heads/master/code.gif
+![Coding GIF](https://raw.githubusercontent.com/saturn-abhishek/abhisheknaiidu/refs/heads/master/code.gif)
+
 
 </div>
 
