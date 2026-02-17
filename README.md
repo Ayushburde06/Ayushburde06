@@ -1,126 +1,99 @@
-# Hi, I'm Ayushkumar Burde 👋
+<!-- Header -->
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:20B2A6,100:1a73e8&height=200&section=header&text=Ayushkumar%20Burde&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20MCA%20'25&descSize=16&descAlignY=55&animation=fadeIn)
 
-**Software Developer | Full Stack Engineer | Backend Specialist**
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=20B2A6&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Python+%7C+Django+%7C+Flask;React.js+%7C+Node.js+%7C+Express.js;Building+Full+Stack+Web+Apps;Open+to+SDE+%2F+Backend+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 
-I build scalable backend systems and production-ready full-stack applications using Python, Django, Node.js, and React.
-I have **6 months of industry experience** and actively looking for **SDE / Backend / Full Stack roles**.
-
-📄 Resume: https://drive.google.com/your-link
-🌐 Portfolio: https://your-portfolio-link
-💼 LinkedIn: https://linkedin.com/in/your-link
-📧 Email: [ayushburde156@gmail.com](mailto:ayushburde156@gmail.com)
-
----
-
-# 🚀 Featured Projects
-
-## 1. Notes App — MERN Stack
-
-GitHub: https://github.com/Ayushburde06/Notes-App-main
-Live: https://notes-app-main-aqv5.onrender.com/
-
-Full-stack note-taking app with authentication and real-time CRUD functionality.
-
-Tech:
-React.js, Node.js, Express.js, MongoDB, JWT, Redux
-
-Key highlights:
-
-• Implemented secure JWT authentication
-• Built REST APIs for full CRUD functionality
-• Designed responsive frontend using React and Tailwind
-• Deployed full stack application on Render
+</div>
 
 ---
 
-## 2. CV Generator — Django
+## 👋 About Me
 
-GitHub: https://github.com/Ayushburde06/CV__Generator
+I'm a **Software Developer** from Nagpur, India — MCA 2025 graduate with **6 months of industry experience** as an SDE Intern.
 
-Web application to generate professional resumes in PDF format.
+- 💼 &nbsp;Interned at **CrystalTech Services Pvt. Ltd.** — built backend services with Node.js & React frontends
+- 🐍 &nbsp;Comfortable with **Python, Django, Flask** for backend development
+- ⚛️ &nbsp;Building projects with the **MERN stack** (MongoDB, Express, React, Node)
+- 🗄️ &nbsp;Worked with **PostgreSQL, MySQL, MongoDB, SQL Server**
+- ☁️ &nbsp;Familiar with **AWS (EC2, S3)** and **Git** workflows
+- 🎯 &nbsp;Actively looking for **SDE / Backend / Full Stack** roles
 
-Tech:
-Python, Django, SQLite, ReportLab
+<br/>
 
-Key highlights:
+## 🛠️ Tech Stack
 
-• Built dynamic resume generator with multiple templates
-• Implemented authentication and database storage
-• Generated downloadable PDFs using backend logic
+<div align="center">
 
----
+**Languages & Backend**
 
-## 3. Blogging Platform — Full Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-GitHub: https://github.com/Ayushburde06/Blog-App
+**Frontend & Databases**
 
-Medium-like blogging platform with modern frontend and scalable backend.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Tech:
-React, TypeScript, Node.js, Prisma, PostgreSQL
+**Tools**
 
-Key highlights:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-• Created REST API backend
-• Built modern frontend using React and TypeScript
-• Integrated database using Prisma ORM
+</div>
 
----
+<br/>
 
-# 💼 Experience
+## 🚀 Projects
 
-Software Engineer Intern
-CrystalTech Services Pvt. Ltd.
-July 2025 – Dec 2025
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| **📝 Notes App** | Full-stack notes app with JWT auth, Redux, search & pin features | React, Node.js, Express, MongoDB | [GitHub](https://github.com/Ayushburde06/Notes-App-main) · [Live](https://notes-app-main-aqv5.onrender.com/) |
+| **📄 CV Generator** | Resume builder with 7 templates and PDF export | Python, Django, SQLite | [GitHub](https://github.com/Ayushburde06/CV__Generator) |
+| **✍️ Blog Platform** | Medium-style blogging app with auth and user profiles | React, TypeScript, Hono.js, Prisma | [GitHub](https://github.com/Ayushburde06/Blog-App) |
 
-• Developed backend APIs using Node.js and Express
-• Built frontend components using React.js
-• Worked with SQL Server and optimized queries
-• Collaborated using Git and Agile methodology
+<br/>
 
----
+## 📊 GitHub Stats
 
-# 🛠 Tech Stack
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ayushburde06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20B2A6&icon_color=20B2A6&text_color=c9d1d9&hide=contribs&hide_rank=true" alt="Stats"/>
+  &nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushburde06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20B2A6&text_color=c9d1d9&langs_count=6" alt="Languages"/>
+</div>
 
-Languages:
-Python, JavaScript, TypeScript, SQL
+<br/>
 
-Backend:
-Django, Flask, Node.js, Express
+## 📫 Get in Touch
 
-Frontend:
-React.js, Next.js, Tailwind CSS
+<div align="center">
 
-Database:
-MongoDB, PostgreSQL, MySQL, SQLite
+[![Email](https://img.shields.io/badge/ayushburde156@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushburde156@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Ayushkumar_Burde-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkumar6)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-20B2A6?style=flat-square&logo=vercel&logoColor=white)](https://ayush-portfolio-psi-ten.vercel.app/)
 
-Tools:
-Git, Docker, AWS, Postman, Linux
+</div>
 
----
+<br/>
 
-# 📊 GitHub Stats
+<div align="center">
+  <i>I'm a fresher who ships code, not just writes it. Let's build something together.</i>
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ayushburde06\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushburde06\&layout=compact)
-
----
-
-# 🎯 Currently Looking For
-
-Software Development Engineer (SDE)
-Backend Developer
-Full Stack Developer
-
----
-
-# 🤝 Connect With Me
-
-LinkedIn: https://linkedin.com/in/your-link
-Portfolio: https://your-portfolio-link
-Email: [ayushburde156@gmail.com](mailto:ayushburde156@gmail.com)
-
----
-
-⭐ If you like my work, feel free to explore my repositories!
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:20B2A6,100:1a73e8&height=100&section=footer)
