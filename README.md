@@ -13,10 +13,10 @@
 
 ## 👋 About Me
 
-I'm a **Software Developer** from Nagpur, India — MCA 2025 graduate with **6 months of industry experience** as an SDE Intern.
+I'm a **Software Developer**  **6 months of industry experience** as an SDE Intern.
 
 - 💼 &nbsp;Interned at **CrystalTech Services Pvt. Ltd.** — built backend services with Node.js & React frontends
-- 🐍 &nbsp;Comfortable with **Python, Django, Flask** for backend development
+- 🐍 &nbsp;Comfortable with **Python, Django, ** for backend development
 - ⚛️ &nbsp;Building projects with the **MERN stack** (MongoDB, Express, React, Node)
 - 🗄️ &nbsp;Worked with **PostgreSQL, MySQL, MongoDB, SQL Server**
 - ☁️ &nbsp;Familiar with **AWS (EC2, S3)** and **Git** workflows
@@ -65,7 +65,7 @@ I'm a **Software Developer** from Nagpur, India — MCA 2025 graduate with **6 m
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Ayushkumar_Burde-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkumar6)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-20B2A6?style=flat-square&logo=vercel&logoColor=white)](https://ayush-portfolio-psi-ten.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-20B2A6?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-main-main-two-rust.vercel.app/)
 
 </div>
 
@@ -74,6 +74,8 @@ I'm a **Software Developer** from Nagpur, India — MCA 2025 graduate with **6 m
 <div align="center">
 
 ⚡ **Fun fact...** I started my journey with a BCA degree 💁‍♂️ where I fell in love with coding — then went all-in with an MCA! I figured, why stop at writing programs in college labs when I could build full-stack apps that actually *ship*? 🚀 Now I spend my time turning coffee into APIs ☕→🔗, breaking things in production (and fixing them before anyone notices 🤫), and wondering why my code works on the first try — because it never does. When I'm not debugging, you'll find me gaming 🎮 or nerding out over tech & science. Still a fresher, but already addicted to the `git push` dopamine hit! 😄
+
+https://raw.githubusercontent.com/saturn-abhishek/abhisheknaiidu/refs/heads/master/code.gif
 
 </div>
 
