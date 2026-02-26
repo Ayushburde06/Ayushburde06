@@ -56,15 +56,9 @@ A few things that are actually true about me:
 
 </div>
 
-<br/>
 
-## a couple things I've built
 
-**Notes App** — full-stack MERN app with JWT auth, dark/light mode, Redux state management. Nothing groundbreaking, but it's clean, deployed, and actually works. [GitHub](#) · [Live](#)
 
-**CV Generator** — Django app that generates PDFs from form input using ReportLab. Built the whole thing end to end, from the ORM models to the UI. Came out of genuinely needing the tool. [GitHub](#)
-
-<br/>
 
 ## let's connect
 
