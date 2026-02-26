@@ -1,30 +1,31 @@
 <!-- Header -->
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:20B2A6,100:1a73e8&height=200&section=header&text=Ayushkumar%20Burde&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20MCA%20'25&descSize=16&descAlignY=55&animation=fadeIn)
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=20B2A6&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Python+%7C+Django+%7C+Flask;React.js+%7C+Node.js+%7C+Express.js;Building+Full+Stack+Web+Apps;Open+to+SDE+%2F+Backend+Roles+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:20B2A6,100:1a73e8&height=200&section=header&text=Ayushkumar%20Burde&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20MCA%20'25&descSize=16&descAlignY=55&animation=fadeIn)
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=20B2A6&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Python+%7C+Django+%7C+Flask;React.js+%7C+Node.js+%7C+Express.js;Building+Full+Stack+Web+Apps;Open+to+SDE+%2F+Backend+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## hey, I'm Ayush 👋
 
-I'm a **Software Developer**  **6 months of industry experience** as an SDE Intern.
+I did my BCA, liked building things, and decided an MCA was the logical next step. Six months into my internship at CrystalTech, I was writing backend services that actually went to production — which was equal parts exciting and terrifying.
 
-- 💼 &nbsp;Interned at **CrystalTech Services Pvt. Ltd.** — built backend services with Node.js & React frontends
-- 🐍 &nbsp;Comfortable with **Python, Django, ** for backend development
-- ⚛️ &nbsp;Building projects with the **MERN stack** (MongoDB, Express, React, Node)
-- 🗄️ &nbsp;Worked with **PostgreSQL, MySQL, MongoDB, SQL Server**
-- ☁️ &nbsp;Familiar with **AWS (EC2, S3)** and **Git** workflows
-- 🎯 &nbsp;Actively looking for **SDE / Backend / Full Stack** roles
+Right now I'm wrapping up my MCA and looking for my next role. I lean backend but I'm comfortable going full stack when the project needs it. Most of my work has been Node.js + Express on the backend and React on the front, though Python/Django is where I started and I still enjoy it.
+
+A few things that are actually true about me:
+- I care more about code that's readable than code that's clever
+- I've broken production before. I've also fixed it before anyone noticed (mostly)
+- I enjoy Agile teams — not because I have to say that, but because shipping in small chunks genuinely works better for me
+
 
 <br/>
 
-## 🛠️ Tech Stack
+## what I work with
 
 <div align="center">
 
@@ -55,9 +56,17 @@ I'm a **Software Developer**  **6 months of industry experience** as an SDE Inte
 
 </div>
 
+<br/>
 
+## a couple things I've built
 
-## 📫 Get in Touch
+**Notes App** — full-stack MERN app with JWT auth, dark/light mode, Redux state management. Nothing groundbreaking, but it's clean, deployed, and actually works. [GitHub](#) · [Live](#)
+
+**CV Generator** — Django app that generates PDFs from form input using ReportLab. Built the whole thing end to end, from the ORM models to the UI. Came out of genuinely needing the tool. [GitHub](#)
+
+<br/>
+
+## let's connect
 
 <div align="center">
 
@@ -72,18 +81,7 @@ I'm a **Software Developer**  **6 months of industry experience** as an SDE Inte
 <br/>
 
 <div align="center">
-
-⚡ **Fun fact...** I started my journey with a BCA degree 💁‍♂️ where I fell in love with coding — then went all-in with an MCA! I figured, why stop at writing programs in college labs when I could build full-stack apps that actually *ship*? 🚀 Now I spend my time turning coffee into APIs ☕→🔗, breaking things in production (and fixing them before anyone notices 🤫), and wondering why my code works on the first try — because it never does. When I'm not debugging, you'll find me gaming 🎮 or nerding out over tech & science. Still a fresher, but already addicted to the `git push` dopamine hit! 😄
-
-![Coding GIF](https://raw.githubusercontent.com/saturn-abhishek/abhisheknaiidu/refs/heads/master/code.gif)
-
-
-</div>
-
-<br/>
-
-<div align="center">
-  <i>I ship code, not just write it. Let's build something together.</i>
+  <img src="https://raw.githubusercontent.com/saturn-abhishek/abhisheknaiidu/refs/heads/master/code.gif" width="400"/>
 </div>
 
 <!-- Footer -->
