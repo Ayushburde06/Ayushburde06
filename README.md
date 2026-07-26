@@ -1,54 +1,39 @@
 # Hi, I'm Ayush 👋
 
-```python
-class Ayush:
-    def __init__(self):
-        self.role = "Backend & Full Stack Developer"
-        self.location = "Pune, India"
+Software Developer passionate about building web applications, backend systems, and AI-powered products.
 
-        self.languages = [
-            "JavaScript", "TypeScript", "Python", "SQL"
-        ]
+## Tech
 
-        self.frontend = [
-            "React", "HTML", "CSS", "Tailwind CSS"
-        ]
+- JavaScript
+- TypeScript
+- Python
+- React
+- Node.js
+- Express.js
+- Django
+- FastApi
+- MongoDB/ PostgreSQL
+- AWS
+- Docker
+- Git
+- RAG
 
-        self.backend = [
-            "Node.js", "Express.js", "Django", "Flask"
-        ]
+## Currently Working On
 
-        self.database = [
-            "MongoDB", "PostgreSQL", "MySQL"
-        ]
+- AI Applications
+- Backend Development
+- RAG & AI Agents
+- Cloud Deployment
 
-        self.tools = [
-            "Git", "GitHub", "Docker",
-            "AWS", "Linux", "Postman"
-        ]
+## Projects
 
-        self.currently_learning = [
-            "AI Agents",
-            "RAG",
-            "System Design",
-            "DevOps"
-        ]
+- ResumeAI
+- QuickVoice
+- AI CSV Importer
+- Wanderlust
+- Full Stack Chat App
 
-        self.projects = [
-            "ResumeAI",
-            "QuickVoice",
-            "AI CSV Importer",
-            "Wanderlust",
-            "Full Stack Chat App"
-        ]
+## Connect
 
-    def connect(self):
-        return {
-            "Portfolio": "https://ayushkumar-portfolio-site.vercel.app",
-            "LinkedIn": "https://linkedin.com/in/ayushkumar6"
-        }
-
-
-me = Ayush()
-print("Thanks for visiting! 🚀")
-```
+- Portfolio: https://ayushkumar-portfolio-site.vercel.app
+- LinkedIn: https://linkedin.com/in/ayushkumar6
