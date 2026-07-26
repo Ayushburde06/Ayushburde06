@@ -1,51 +1,118 @@
-<!-- Header -->
-<div align="center">
+Skip to content
+Ayushburde06
+User navigation
+Overview
+Repositories
+26
+ (26)
+Projects
+Packages
+Stars
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:20B2A6,100:1a73e8&height=200&section=header&text=Ayushkumar%20Burde&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20MCA%20'25&descSize=16&descAlignY=55&animation=fadeIn)
+Ayushkumar burde
+Ayushburde06
+Pune ,Maharashtra
+https://ayushkumar-portfolio-site.vercel.app/
+in/ayushkumar6
+Ayushburde06/README.md
+Header
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=20B2A6&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Python+%7C+Django+%7C+Flask;React.js+%7C+Node.js+%7C+Express.js;Building+Full+Stack+Web+Apps;Open+to+SDE+%2F+Backend+Roles+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-</div>
-
----
-
-## hey, I'm Ayush 👋
-
+Typing SVG
+hey, I'm Ayush 👋
 I did my BCA, liked building things, and decided an MCA was the logical next step. Six months into my internship at CrystalTech, I was writing backend services that actually went to production — which was equal parts exciting and terrifying.
 
 Right now I'm wrapping up my MCA and looking for my next role. I lean backend but I'm comfortable going full stack when the project needs it. Most of my work has been Node.js + Express on the backend and React on the front, though Python/Django is where I started and I still enjoy it.
 
 A few things that are actually true about me:
-- I care more about code that's readable than code that's clever
-- I've broken production before. I've also fixed it before anyone noticed (mostly)
-- I enjoy Agile teams — not because I have to say that, but because shipping in small chunks genuinely works better for me
+
+I care more about code that's readable than code that's clever
+I've broken production before. I've also fixed it before anyone noticed (mostly)
+I enjoy Agile teams — not because I have to say that, but because shipping in small chunks genuinely works better for me
+
+let's connect
+Email   LinkedIn   Portfolio
 
 
-<br/>
 
+Footer
 
+Popular repositoriesLoading
+Snake_Game
+Public
+The Snake game repository on Git contains the necessary files and code to play the game directly in a web browser.
 
+ JavaScript  1
 
+Hospital-management-System
+Public
 
-## let's connect
+ 1
 
-<div align="center">
+zerodha
+Public
+This is a simple landing page for Zerodha, a popular online investment platform.
 
-[![Email](https://img.shields.io/badge/ayushburde156@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushburde156@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Ayushkumar_Burde-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkumar6)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-20B2A6?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-main-main-two-rust.vercel.app/)
+ HTML  1
 
-</div>
+wanderlust-main
+Public
 
-<br/>
+ JavaScript  1
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saturn-abhishek/abhisheknaiidu/refs/heads/master/code.gif" width="400"/>
-</div>
+fullstack-chat-app
+Public
 
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:20B2A6,100:1a73e8&height=100&section=footer)
+ JavaScript  1
+
+Weather-App
+Public
+
+ 1
+
+156 contributions in the last year
+Skip to contributions year list
+Contribution Graph
+Day of Week	AugustAug	SeptemberSep	OctoberOct	NovemberNov	DecemberDec	JanuaryJan	FebruaryFeb	MarchMar	AprilApr	MayMay	JuneJun	JulyJul
+SundaySun																																																					
+MondayMon																																																					
+TuesdayTue																																																					
+WednesdayWed																																																					
+ThursdayThu																																																					
+FridayFri																																																					
+SaturdaySat																																																					
+Learn how we count contributions
+Less
+No contributions.
+Low contributions.
+Medium-low contributions.
+Medium-high contributions.
+High contributions.
+More
+Contribution activity
+July 2026
+Ayushburde06/complete-AI-CSV-importer 4 commits
+Ayushburde06/ResumeAI 3 commits
+ Ayushburde06/QuickVoice
+ TypeScript
+This contribution was made on Jul 24Jul 24
+ Ayushburde06/complete-AI-CSV-importer
+ TypeScript
+This contribution was made on Jul 18Jul 18
+Loading
+Seeing something unexpected? Take a look at the GitHub profile guide.
+
+2026
+2025
+2024
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
